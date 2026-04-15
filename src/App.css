@@ -1,0 +1,12 @@
+.page-wrapper {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 108px 2rem 4rem;
+  min-height: 100svh;
+}
+
+@media (max-width: 768px) {
+  .page-wrapper {
+    padding: 96px 1rem 3rem;
+  }
+}
