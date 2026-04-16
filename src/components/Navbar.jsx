@@ -16,7 +16,7 @@ export default function Navbar() {
       <div className="navbar-inner">
         <Link to="/" className="navbar-brand">
           <span className="brand-icon">⚡</span>
-          <span className="brand-name">APEX<span className="brand-accent">FIT</span></span>
+          <span className="brand-name">Amer<span className="brand-accent">FIT</span></span>
         </Link>
 
         <nav className="navbar-links">
